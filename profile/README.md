@@ -350,6 +350,56 @@ Hi 👋, Welcome to github "Praktikum Algoritma dan Pemrograman 1C 2022"
     <a href="https://github.com/praktikum-alpro-1b-2022/1c-uas-kelompok-4">Kelompok 4</a>
     </td>
   </tr>
+  <tr>
+    <td class="tg-c3ow" rowspan="3">5</td>
+    <td class="tg-0pky" rowspan="3">Hotel</td>
+    <td class="tg-0pky">MUHAMMAD MIRZA KURNIAWAN</td>
+    <td class="tg-c3ow" rowspan="3">6</td>
+    <td class="tg-0pky" rowspan="3">Coffe</td>
+    <td class="tg-0pky">MUHAMMAD DAFFA ARIQ FADILAH</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">JOHAN</td>
+    <td class="tg-0pky">BUNGA KHOERIAH UTAMI</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">DAFFA ERINDA ZIDDANA</td>
+    <td class="tg-0pky">FITRI AKMALIAH</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" colspan="3">
+        <a href="https://github.com/praktikum-alpro-1b-2022/1c-uas-kelompok-5">Kelompok 5</a>
+    </td>
+    <td class="tg-0lax" colspan="3">
+    <a href="https://github.com/praktikum-alpro-1b-2022/1c-uas-kelompok-6">Kelompok 6</a>
+    </td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow" rowspan="4">7</td>
+    <td class="tg-0pky" rowspan="4">Siakad</td>
+    <td class="tg-0pky">CHANDRA AHMAD PUDOLI</td>
+    <td class="tg-c3ow" rowspan="4">8</td>
+    <td class="tg-0pky" rowspan="4">Calculator Scientific</td>
+    <td class="tg-0pky">MUHAMMAD RAFI CATUR WIJAYANTO</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">MUHAMMAD HANIF</td>
+    <td class="tg-0pky">GHAIDA PUTRI YUNISA</td>
+    <td class="tg-0pky">NADINDRA MAULANA AZIZ</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">ADITYA RIZKY DARMAWAN</td>
+    <td class="tg-0pky">ALLYA PUTRI NADILA GUSTIN</td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" colspan="3">
+        <a href="https://github.com/praktikum-alpro-1b-2022/1c-uas-kelompok-7">Kelompok 7</a>
+    </td>
+    <td class="tg-0lax" colspan="3">
+    <a href="https://github.com/praktikum-alpro-1b-2022/1c-uas-kelompok-8">Kelompok 8</a>
+    </td>
+  </tr>
   
 </tbody>
 </table>
