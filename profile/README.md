@@ -336,10 +336,10 @@ Hi 👋, Welcome to github "Praktikum Algoritma dan Pemrograman 1C 2022"
   </tr>
   <tr>
     <td class="tg-0pky">MUHAMAD RIZQI FAJRI</td>
-    <td class="tg-0pky">ANNISYA DWI CHAERANI</td>
+    <td class="tg-0pky">FITRIA NOVYANTI TAUFIK</td>
   </tr>
   <tr>
-    <td class="tg-0pky">FITRIA NOVYANTI TAUFIK</td>
+    <td class="tg-0pky">ANNISYA DWI CHAERANI</td>
     <td class="tg-0pky">MUHAMAD RAFI HERMANSAH</td>
   </tr>
   <tr>
@@ -360,10 +360,10 @@ Hi 👋, Welcome to github "Praktikum Algoritma dan Pemrograman 1C 2022"
   </tr>
   <tr>
     <td class="tg-0pky">JOHAN</td>
-    <td class="tg-0pky">BUNGA KHOERIAH UTAMI</td>
+    <td class="tg-0pky">DAFFA ERINDA ZIDDANA</td>
   </tr>
   <tr>
-    <td class="tg-0pky">DAFFA ERINDA ZIDDANA</td>
+    <td class="tg-0pky">BUNGA KHOERIAH UTAMI</td>
     <td class="tg-0pky">FITRI AKMALIAH</td>
   </tr>
   <tr>
