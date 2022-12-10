@@ -375,11 +375,11 @@ Hi 👋, Welcome to github "Praktikum Algoritma dan Pemrograman 1C 2022"
     </td>
   </tr>
   <tr>
-    <td class="tg-c3ow" rowspan="3">7</td>
-    <td class="tg-0pky" rowspan="3">Siakad</td>
+    <td class="tg-c3ow" rowspan="4">7</td>
+    <td class="tg-0pky" rowspan="4">Siakad</td>
     <td class="tg-0pky">CHANDRA AHMAD PUDOLI</td>
-    <td class="tg-c3ow" rowspan="3">8</td>
-    <td class="tg-0pky" rowspan="3">Calculator Scientific</td>
+    <td class="tg-c3ow" rowspan="4">8</td>
+    <td class="tg-0pky" rowspan="4">Calculator Scientific</td>
     <td class="tg-0pky">MUHAMMAD RAFI CATUR WIJAYANTO</td>
   </tr>
   <tr>
@@ -389,6 +389,10 @@ Hi 👋, Welcome to github "Praktikum Algoritma dan Pemrograman 1C 2022"
   <tr>
     <td class="tg-0pky">GHAIDA PUTRI YUNISA</td>
     <td class="tg-0pky">ALLYA PUTRI NADILA GUSTIN</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">NADINDRA MAULANA AZIZ</td>
+    <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-0lax" colspan="3">
