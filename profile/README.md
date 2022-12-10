@@ -1,4 +1,7 @@
-Hi 👋, Welcome to github "Praktikum Algoritma dan Pemrograman 1C 2022"
+# Praktikum Algoritma dan Pemrograman 1C 2022
+
+Hi 👋, Welcome to github **Praktikum Algoritma dan Pemrograman 1C 2022**
+
 ![1C Alpro 2022](https://github.com/praktikum-alpro-1c-2022/.github/blob/main/profile/assets/1C.jpeg)
 ## 📙 Tugas 1
 - [HAFIZ ALI ASSAJJAD](https://github.com/praktikum-alpro-1c-2022/1c-tugas1-hafiz-ali-assajjad)
