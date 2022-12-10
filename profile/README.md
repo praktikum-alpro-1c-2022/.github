@@ -374,12 +374,12 @@ Hi 👋, Welcome to github "Praktikum Algoritma dan Pemrograman 1C 2022"
     <a href="https://github.com/praktikum-alpro-1b-2022/1c-uas-kelompok-6">Kelompok 6</a>
     </td>
   </tr>
-  <!-- <tr>
-    <td class="tg-c3ow" rowspan="4">7</td>
-    <td class="tg-0pky" rowspan="4">Siakad</td>
+  <tr>
+    <td class="tg-c3ow" rowspan="3">7</td>
+    <td class="tg-0pky" rowspan="3">Siakad</td>
     <td class="tg-0pky">CHANDRA AHMAD PUDOLI</td>
-    <td class="tg-c3ow" rowspan="4">8</td>
-    <td class="tg-0pky" rowspan="4">Calculator Scientific</td>
+    <td class="tg-c3ow" rowspan="3">8</td>
+    <td class="tg-0pky" rowspan="3">Calculator Scientific</td>
     <td class="tg-0pky">MUHAMMAD RAFI CATUR WIJAYANTO</td>
   </tr>
   <tr>
@@ -399,7 +399,7 @@ Hi 👋, Welcome to github "Praktikum Algoritma dan Pemrograman 1C 2022"
     <td class="tg-0lax" colspan="3">
     <a href="https://github.com/praktikum-alpro-1b-2022/1c-uas-kelompok-8">Kelompok 8</a>
     </td>
-  </tr> -->
+  </tr>
   
 </tbody>
 </table>
