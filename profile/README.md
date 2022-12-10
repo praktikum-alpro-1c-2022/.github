@@ -385,12 +385,10 @@ Hi 👋, Welcome to github "Praktikum Algoritma dan Pemrograman 1C 2022"
   <tr>
     <td class="tg-0pky">MUHAMMAD HANIF</td>
     <td class="tg-0pky">GHAIDA PUTRI YUNISA</td>
-    <td class="tg-0pky">NADINDRA MAULANA AZIZ</td>
   </tr>
   <tr>
     <td class="tg-0pky">ADITYA RIZKY DARMAWAN</td>
     <td class="tg-0pky">ALLYA PUTRI NADILA GUSTIN</td>
-    <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-0lax" colspan="3">
