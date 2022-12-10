@@ -288,3 +288,68 @@ Hi 👋, Welcome to github "Praktikum Algoritma dan Pemrograman 1C 2022"
 - [CHANDRA AHMAD PUDOLI](https://github.com/praktikum-alpro-1c-2022/1c-10-chandra-ahmad-pudoli)
 - [DAFFA ERINDA ZIDDANA](https://github.com/praktikum-alpro-1c-2022/1c-10-daffa-erinda-ziddana)
 - [NADINDRA MAULANA AZIZ](https://github.com/praktikum-alpro-1c-2022/1c-10-nadindra-maulana-aziz)
+
+## 📙 Ujian Akhir Semester
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-zme7">Kelompok</th>
+    <th class="tg-pidv">Studi Kasus</th>
+    <th class="tg-pidv">Anggota</th>
+    <th class="tg-pidv">Kelompok</th>
+    <th class="tg-pidv">Studi Kasus</th>
+    <th class="tg-pidv">Anggota</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-c3ow" rowspan="3">1</td>
+    <td class="tg-0pky" rowspan="3">Perpustakaan</td>
+    <td class="tg-0pky">MUHAMMAD REYNALDO AULIA RACHMAN</td>
+    <td class="tg-c3ow" rowspan="3">2</td>
+    <td class="tg-0pky" rowspan="3">Restoran</td>
+    <td class="tg-0pky">ADAM SANDY AZHARI</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">MUHAMMAD RIFKY AKBAR</td>
+    <td class="tg-0pky">DANIEL AGUS SATRIO</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">JOUVANYTHA ASWAR AFENDY</td>
+    <td class="tg-0pky">AHMAD TUBAGUS NABIL MAULANA</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" colspan="3">
+        <a href="https://github.com/praktikum-alpro-1b-2022/1c-uas-kelompok-1">Kelompok 1</a>
+    </td>
+    <td class="tg-0lax" colspan="3">
+    <a href="https://github.com/praktikum-alpro-1b-2022/1c-uas-kelompok-2">Kelompok 2</a>
+    </td>
+  </tr>
+    <tr>
+    <td class="tg-c3ow" rowspan="3">3</td>
+    <td class="tg-0pky" rowspan="3">Bioskop</td>
+    <td class="tg-0pky">MUHAMMAD ARDHO RANTISY</td>
+    <td class="tg-c3ow" rowspan="3">4</td>
+    <td class="tg-0pky" rowspan="3">Pesawat</td>
+    <td class="tg-0pky">EMIL MAULANA</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">MUHAMAD RIZQI FAJRI</td>
+    <td class="tg-0pky">ANNISYA DWI CHAERANI</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">FITRIA NOVYANTI TAUFIK</td>
+    <td class="tg-0pky">MUHAMAD RAFI HERMANSAH</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" colspan="3">
+        <a href="https://github.com/praktikum-alpro-1b-2022/1c-uas-kelompok-3">Kelompok 3</a>
+    </td>
+    <td class="tg-0lax" colspan="3">
+    <a href="https://github.com/praktikum-alpro-1b-2022/1c-uas-kelompok-4">Kelompok 4</a>
+    </td>
+  </tr>
+  
+</tbody>
+</table>
