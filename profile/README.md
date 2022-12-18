@@ -333,10 +333,10 @@ Hi 👋, Welcome to github **Praktikum Algoritma dan Pemrograman 1C 2022**
   </tr>
   <tr>
     <td class="tg-0lax" colspan="3">
-        <a href="https://github.com/praktikum-alpro-1b-2022/1c-uas-kelompok-1">Kelompok 1</a>
+        <a href="https://github.com/praktikum-alpro-1c-2022/1c-uas-kelompok-1">Kelompok 1</a>
     </td>
     <td class="tg-0lax" colspan="3">
-    <a href="https://github.com/praktikum-alpro-1b-2022/1c-uas-kelompok-2">Kelompok 2</a>
+    <a href="https://github.com/praktikum-alpro-1c-2022/1c-uas-kelompok-2">Kelompok 2</a>
     </td>
   </tr>
     <tr>
@@ -357,10 +357,10 @@ Hi 👋, Welcome to github **Praktikum Algoritma dan Pemrograman 1C 2022**
   </tr>
   <tr>
     <td class="tg-0lax" colspan="3">
-        <a href="https://github.com/praktikum-alpro-1b-2022/1c-uas-kelompok-3">Kelompok 3</a>
+        <a href="https://github.com/praktikum-alpro-1c-2022/1c-uas-kelompok-3">Kelompok 3</a>
     </td>
     <td class="tg-0lax" colspan="3">
-    <a href="https://github.com/praktikum-alpro-1b-2022/1c-uas-kelompok-4">Kelompok 4</a>
+    <a href="https://github.com/praktikum-alpro-1c-2022/1c-uas-kelompok-4">Kelompok 4</a>
     </td>
   </tr>
   <tr>
@@ -381,10 +381,10 @@ Hi 👋, Welcome to github **Praktikum Algoritma dan Pemrograman 1C 2022**
   </tr>
   <tr>
     <td class="tg-0lax" colspan="3">
-        <a href="https://github.com/praktikum-alpro-1b-2022/1c-uas-kelompok-5">Kelompok 5</a>
+        <a href="https://github.com/praktikum-alpro-1c-2022/1c-uas-kelompok-5">Kelompok 5</a>
     </td>
     <td class="tg-0lax" colspan="3">
-    <a href="https://github.com/praktikum-alpro-1b-2022/1c-uas-kelompok-6">Kelompok 6</a>
+    <a href="https://github.com/praktikum-alpro-1c-2022/1c-uas-kelompok-6">Kelompok 6</a>
     </td>
   </tr>
   <tr>
@@ -409,10 +409,10 @@ Hi 👋, Welcome to github **Praktikum Algoritma dan Pemrograman 1C 2022**
   </tr>
   <tr>
     <td class="tg-0lax" colspan="3">
-        <a href="https://github.com/praktikum-alpro-1b-2022/1c-uas-kelompok-7">Kelompok 7</a>
+        <a href="https://github.com/praktikum-alpro-1c-2022/1c-uas-kelompok-7">Kelompok 7</a>
     </td>
     <td class="tg-0lax" colspan="3">
-    <a href="https://github.com/praktikum-alpro-1b-2022/1c-uas-kelompok-8">Kelompok 8</a>
+    <a href="https://github.com/praktikum-alpro-1c-2022/1c-uas-kelompok-8">Kelompok 8</a>
     </td>
   </tr>
   
